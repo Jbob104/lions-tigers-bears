@@ -1,2 +1,4 @@
-# Azure Static Website Template
-This repository can be used to create a simple Azure hosted static website.
+# Lions, Tigers, Bears
+This repository contains source code for a Lions, Tigers, and Bears application.
+
+Application designed by Brad Schiff and modified by Jacob Mysliwiec.
